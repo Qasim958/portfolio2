@@ -22,7 +22,7 @@ export function showProjects(data) {
           <a href="${v.websiteUrl}">
             <i class="fas fa-globe"></i> Website
           </a>
-          <a href="${v.gihubtUrl}">
+          <a href="${v.gihub}">
             <i class="fab fa-github"></i> Github
           </a>
       </div>
